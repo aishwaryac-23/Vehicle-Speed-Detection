@@ -36,6 +36,7 @@ This project implements a Vehicle Speed Detection System using an ESP32 microcon
    ```bash
    git clone https://github.com/yourusername/VehicleSpeedDetectionSystem.git
    cd VehicleSpeedDetectionSystem
+   
 4. **Open the Project**:
 Open the Arduino IDE.
 Navigate to File > Open and select the main source code file (e.g., vehicle_speed_detection.c).
@@ -45,10 +46,11 @@ Upload the code to the ESP32 microcontroller.
 Open the Serial Monitor in the Arduino IDE to view any debug messages.
 As a vehicle passes between the two IR sensors, the speed will be calculated and displayed on the LCD.
 If the speed exceeds 50 Km/Hr, the buzzer will sound to indicate overspeeding.
-5. **Schematic Diagram**
-<!-- https://github.com/aishwaryac-23/Vehicle-Speed-Detection/blob/main/semantic_diagram.png -->
 
-6. **Troubleshooting**
+6. **Schematic Diagram**
+#https://github.com/aishwaryac-23/Vehicle-Speed-Detection/blob/main/semantic_diagram.png
+
+7. **Troubleshooting**
 No display on LCD:
 
 Ensure the I2C connections are correct.
