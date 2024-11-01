@@ -48,7 +48,7 @@ As a vehicle passes between the two IR sensors, the speed will be calculated and
 If the speed exceeds 50 Km/Hr, the buzzer will sound to indicate overspeeding.
 
 6. **Schematic Diagram**
-#https://github.com/aishwaryac-23/Vehicle-Speed-Detection/blob/main/semantic_diagram.png
+https://github.com/aishwaryac-23/Vehicle-Speed-Detection/blob/main/semantic_diagram.png
 
 7. **Troubleshooting**
 No display on LCD:
